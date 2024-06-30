@@ -1,0 +1,7 @@
+ld,r1,2,r2
+ld,r2,3,r0
+fadd,r3,r1,r2
+fmult,r4,r5,r6
+fadd,r3,r4,r3
+fadd,r4,r4,r2
+sd,r4,4,r0
